@@ -9,7 +9,7 @@ Node.js Backend: Implements the backend logic using Node.js, providing a robust 
 Getting Started
 To get started with this project:
 1. Clone the Repository:
- git clone https://github.com/your-username/your-repository.git
+ git clone https://github.com/Shaif-Alam/Razorpay-Gateway-Nodejs.git
 2. Install Dependencies: Navigate to the project directory and install the required Node.js packages:
 3. cd your-repository
 npm install
